@@ -94,12 +94,11 @@ c = np.sum(arrayC)/140
 print("Grade C (w/o priorities):", c)
 
 # Task 3
-print("331:", arrayA[2][2][0], arrayB[2][2][0], arrayC[2][2][0])
-print("453:", arrayA[3][4][2], arrayB[3][4][2], arrayC[3][4][2])
-print("452:", arrayA[3][4][1], arrayB[3][4][1], arrayC[3][4][1])
-print("114:", arrayA[0][0][3], arrayB[0][0][3], arrayC[0][0][3])
-print("141:", arrayA[0][3][0], arrayB[0][3][0], arrayC[0][3][0])
-
+print("342:", arrayA[2][2][0], arrayB[2][2][0], arrayC[2][2][0])
+print("415:", arrayA[3][4][2], arrayB[3][4][2], arrayC[3][4][2])
+print("226:", arrayA[3][4][1], arrayB[3][4][1], arrayC[3][4][1])
+print("116:", arrayA[0][0][3], arrayB[0][0][3], arrayC[0][0][3])
+print("327:", arrayA[0][3][0], arrayB[0][3][0], arrayC[0][3][0])
 
 # Task 5
 def smol(array, N):
